@@ -1,0 +1,8 @@
+com\webwithserver\webtest1\services\MyServeices.class
+com\tools\AppLogger.class
+com\webwithserver\webtest1\repository\MyRepository.class
+com\webwithserver\webtest1\entity\UserPass$UserPassBuilder.class
+com\webwithserver\webtest1\entity\UserPass.class
+com\webwithserver\webtest1\services\MyServicesImp.class
+com\webwithserver\webtest1\controller\MyController.class
+com\webwithserver\webtest1\Webtest1Application.class
